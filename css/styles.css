@@ -1,0 +1,254 @@
+body{
+font-family: 'Barlow Semi Condensed', sans-serif;
+background-color: hsl(0, 0%, 81%);
+}
+.allone{
+  position: relative;
+  top:70px;
+  left:100px;px;
+}
+.purple{
+  background-color: hsl(263, 55%, 52%);
+  border-radius:3%;
+  width:550px;
+  height:270px;
+  background-image:
+}
+.quote{
+  position: absolute;
+  left:400px;
+}
+.dan-img{border-radius:100%;
+width:25px;
+border-style: groove;
+position: relative;
+top:20px;
+left:20px;
+
+}
+.daniel{
+color: hsl(210, 46%, 95%);
+position: relative;
+left:60px;
+bottom:27px;
+font-size:15px;
+
+}
+.dan-sub{
+  color: hsl(0, 0%, 81%);
+  position: relative;
+  left:60px;
+  bottom:50px;
+  font-size:13px;
+}
+.dan{
+  color:hsl(0, 0%, 100%);
+  font-size:20px;
+  position: relative;
+  bottom:55px;
+  left:25px;
+  width:90%;
+}
+.dan-p{
+color:hsl(0, 0%, 81%);
+font-size:13px;
+width:85%;
+position:relative;
+left:25px;
+bottom:60px;
+}
+/* dark grey */
+.dark-grey{
+  background-color: hsl(217, 19%, 35%);
+  height:270px;
+  width:240px;
+  border-radius:3%;
+  position: relative;
+  left:570px;
+  bottom:270px;;
+}
+
+.jon-sub{
+  color: hsl(0, 0%, 81%);
+  position: relative;
+  left:60px;
+  bottom:70px;
+  font-size:13px;
+}
+.jon-img{
+  border-radius:100%;
+  width:25px;
+  border-style: groove;
+  position: relative;
+  top:20px;
+  left:20px;
+}
+.jon{
+  color: hsl(210, 46%, 95%);
+  position: relative;
+  left:60px;
+  bottom:27px;
+  font-size:15px;
+}
+.jon-sub{
+  color: hsl(0, 0%, 81%);
+  position: relative;
+  left:60px;
+  bottom:50px;
+  font-size:13px;
+}
+.jon-h2{
+  color:hsl(0, 0%, 100%);
+  font-size:20px;
+  position: relative;
+  bottom:55px;
+  left:25px;
+  width:90%;
+}
+.jon-p{
+  color:hsl(0, 0%, 81%);
+  font-size:13px;
+  width:85%;
+  position:relative;
+  left:25px;
+  bottom:60px;
+}
+.white-sm{
+  background-color: hsl(0, 0%, 100%);
+  border-radius:3%;
+  width:250px;
+  height:250px;
+  position: relative;
+  bottom:240px;
+}
+.jean-img{
+  border-radius:100%;
+  width:25px;
+  position: relative;
+  top:20px;
+  left:20px;
+}
+.jeanne{
+  color:hsl(217, 19%, 35%);
+  position: relative;
+  left:60px;
+  bottom:20px;
+  font-size:13px;
+}
+.jean-sub{
+  color: hsl(0, 0%, 81%);
+  position: relative;
+  left:60px;
+  bottom:42px;
+  font-size:12px;
+}
+.jean-h2{
+  color:hsl(219, 29%, 14%);
+  font-size:20px;
+  position: relative;
+  bottom:48px;
+  left:25px;
+  width:70%;
+}
+.jean-p{
+  color:hsl(217, 19%, 35%);
+  font-size:13px;
+  width:80%;
+  position:relative;
+  left:25px;
+  bottom:40px;
+}
+.dark-blue{
+  background-color:hsl(219, 29%, 14%);
+  border-radius:3%;
+  width:543px;
+  height:250px;
+  position: relative;
+  left:270px;
+  bottom:490px;
+}
+.pat-img{
+  border-radius:100%;
+  border-style: groove;
+  border-color: hsl(263, 55%, 52%);
+  width:25px;
+  position: relative;
+  top:20px;
+  left:20px;
+}
+.Patrick{
+  color: hsl(210, 46%, 95%);
+  position: relative;
+  left:60px;
+  bottom:27px;
+  font-size:15px;
+}
+.pat-sub{
+  color:hsl(217, 19%, 35%);
+  position: relative;
+  left:60px;
+  bottom:48px;
+  font-size:12px;
+}
+.pat-h2{
+  color:hsl(0, 0%, 100%);
+  font-size:20px;
+  position: relative;
+  bottom:55px;
+  left:25px;
+  width:80%;
+}
+.pat-p{
+  color:hsl(0, 0%, 81%);
+  font-size:13px;
+  width:85%;
+  position:relative;
+  left:25px;
+  bottom:60px;
+}
+.white-bg{
+  background-color: hsl(0, 0%, 100%);
+  border-radius:3%;
+  width:230px;
+  height:550px;
+  position: relative;
+  left:835px;
+  bottom:1040px;
+}
+.kira-img{
+  border-radius:100%;
+  width:25px;
+  position: relative;
+  top:25px;
+  left:25px;
+}
+.kira{
+  color:hsl(217, 19%, 35%);
+  position: relative;
+  left:63px;
+  bottom:15px;
+  font-size:13px;
+}
+.kira-sub{
+  color:hsl(0, 0%, 81%);
+  position: relative;
+  left:63px;
+  bottom:36px;
+  font-size:12px;
+}
+.kira-h2{
+  color: hsl(219, 29%, 14%);
+  font-size:20px;
+  position: relative;
+  bottom:45px;
+  left:25px;
+  width:80%;
+}
+.kira-p{
+  color:hsl(217, 19%, 35%);
+  font-size:13px;
+  width:83%;
+  position:relative;
+  left:20px;
+  bottom:35px;
+}
